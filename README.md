@@ -15,7 +15,7 @@ Foi criado uma pequena linguagem de comandos para descrever desenhos 2D (tela, r
 
 ## Testar online
 
-🔗 **Página de teste:**
+🔗 **Página de teste:** https://erickjbf.github.io/ATIVIDADE-FASE-1/
 
 Cole um programa na caixa de texto e clique em **Analisar**. A página mostra os tokens e, conforme o caso, os erros léxicos, o erro sintático ou a AST.
 
